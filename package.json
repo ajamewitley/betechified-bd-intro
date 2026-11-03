@@ -1,0 +1,20 @@
+{
+  "name": "intro",
+  "version": "1.0.0",
+  "description": "A script for printing my name, age, and favourite programming language to the console.",
+  "homepage": "https://github.com/ajamewitley/betechified-bd-intro#readme",
+  "bugs": {
+    "url": "https://github.com/ajamewitley/betechified-bd-intro/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajamewitley/betechified-bd-intro.git"
+  },
+  "license": "ISC",
+  "author": "Ajame Witley",
+  "type": "commonjs",
+  "main": "intro.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
